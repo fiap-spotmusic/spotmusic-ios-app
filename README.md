@@ -6,6 +6,10 @@ O `spotmusic-ios-app` é o aplicativo da SpotMusic para dispositivos iOS, oferec
 - **Linguagem de Programação:** Swift
 - **Gerenciamento de Estado:** Arquitetura MVVM com Combine e SwiftUI
 
+## Arquitetura do Serviço de Reprodução de Músicas
+
+![Diagrama da Arquitetura do Serviço de Reprodução](./c4-model-player.drawio.png)
+
 ## Configuração e Instalação
 Para configurar e executar o `spotmusic-ios-app` em seu ambiente de desenvolvimento, siga os passos abaixo:
 
@@ -20,3 +24,4 @@ cd spotmusic-ios-app
 # Configure as variáveis de ambiente e chaves de API no arquivo `Info.plist`
 
 # Execute o aplicativo em um simulador ou dispositivo conectado através do Xcode
+```
